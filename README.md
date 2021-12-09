@@ -8,7 +8,7 @@ Welcome to my coding world.
 - ⚡ Fun fact **I love functional roller skating, sparring and cats 😻**
 - 👯 I’m looking to collaborate on **anything free and open source**
 
-<details>
+<!-- <details>
 <summary>⚡️ More about my coding life</summary>
 <br />
 
@@ -18,4 +18,4 @@ Welcome to my coding world.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NICEXAI&layout=compact&hide=css,html)
 ![Afeyer's github stats](https://github-readme-stats.vercel.app/api?username=NICEXAI&count_private=true&show_icons=true)
 
-</details>
+</details> -->
