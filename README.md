@@ -4,7 +4,6 @@ Welcome to my coding world.
 
 - 🌱 I’m a front-end developer
 - 🔭 I’m currently working on `Go` `NodeJS` `Python`, etc.
-- 🧠 I am currently learning **Rust, Distributed and Hardware**
 - ⚡ Fun fact **I love functional roller skating, sparring and cats 😻**
 - 👯 I’m looking to collaborate on **anything free and open source**
 
