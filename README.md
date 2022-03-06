@@ -3,9 +3,9 @@
 Welcome to my coding world.
 
 - 🌱 I’m a front-end developer
-- 🔭 I’m currently working on `Go` `NodeJS` `Python`, etc.
-- ⚡ Fun fact **I love functional roller skating, sparring and cats 😻**
-- 👯 I’m looking to collaborate on **anything free and open source**
+- 💻 I’m currently working on `Go` `NodeJS` `Python`, etc.
+- 💓 Fun fact **I love functional roller skating, sparring and cats 😻**
+- ✨ I’m looking to collaborate on **anything free and open source**
 
 <!-- <details>
 <summary>⚡️ More about my coding life</summary>
